@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+
+.Footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
+.Content {
+	margin-top: 12%;
+	margin-left: 33%;
+}
